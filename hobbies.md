@@ -10,10 +10,6 @@ title: Hobbies
 
 <br>In my free time, I enjoy playing badminton, which not only helps me relax but also keeps me physically active.
 
+##table tennis
 
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
+<br>One of my favorite hobbies is playing table tennis. I find it to be an exciting and fast-paced sport that requires quick reflexes, precision, and strategy. Whether I'm playing with friends or practicing alone, table tennis always helps me stay active and sharpens my focus. I enjoy the thrill of a good rally and the satisfaction of improving my skills over time. It's not just a game for me—it's a way to relax, have fun, and challenge myself.
