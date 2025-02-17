@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://liangguifang.com/liangguifang.jpg" class="floatpic">
+<img src="https://liangguifang.github.io/images/liangguifang.jpg" class="floatpic">
 
 Here is **guifang liang 梁贵方**.<br>
 
